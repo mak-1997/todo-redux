@@ -1,0 +1,29 @@
+{
+  "todos" : [
+    {
+      "id" : 1,
+      "title" : "study",
+      "status" : "completed"
+    },
+    {
+      "id" : 2,
+      "title" : "eat",
+      "status" : "active"
+    },
+    {
+      "id" : 3,
+      "title" : "sleep",
+      "status" : "completed"
+    },
+    {
+      "id" : 4,
+      "title" : "play",
+      "status" : "active"
+    },
+    {
+      "id" : 5,
+      "title" : "dance",
+      "status" : "completed"
+    }
+  ]
+}
